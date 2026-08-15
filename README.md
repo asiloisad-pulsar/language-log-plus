@@ -18,7 +18,7 @@ Fork of [language-log](https://github.com/MRodalgaard/language-log).
 
 ## Installation
 
-To install `language-log-plus` search for [language-log-plus](https://web.pulsar-edit.dev/packages/language-log-plus) in the Install pane of the Pulsar settings or run `ppm install language-log-plus`. Alternatively, you can run `ppm install asiloisad/pulsar-language-log-plus` to install a package directly from the GitHub repository.
+To install `language-log-plus` search for [language-log-plus](https://web.pulsar-edit.dev/packages/language-log-plus) in the Install pane of the Pulsar settings or run `ppm install language-log-plus`. Alternatively, you can run `ppm install asiloisad-pulsar/language-log-plus` to install a package directly from the GitHub repository.
 
 ## Commands
 
