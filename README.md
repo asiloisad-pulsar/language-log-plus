@@ -2,6 +2,9 @@
 
 Log syntax highlighting with an inline filter panel.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [language-log](https://github.com/lumine-code/language-log) and [log-filter](https://github.com/lumine-code/log-filter).
+
 Fork of [language-log](https://github.com/MRodalgaard/language-log).
 
 ## Features
